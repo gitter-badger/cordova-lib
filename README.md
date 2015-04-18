@@ -17,6 +17,8 @@
 # specific language governing permissions and limitations
 # under the License.
 #
+
+[![Join the chat at https://gitter.im/driftyco/cordova-lib](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/driftyco/cordova-lib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 -->
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q9s459ssqvs1t7j6/branch/master)](https://ci.appveyor.com/project/Humbedooh/cordova-lib)
